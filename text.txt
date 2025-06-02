@@ -19,10 +19,11 @@ Contacts:	+7 701 896 8628, +7 701 475 2715, +7 701 395 5427
 mail: 		office@eduard-ltd.com
 domain: 	eduard-ltd.com
 
-Classic Landingpage styled as Apple IOS application. Business type: retail. In hero section add image placeholder. Content: spare parts for cars, agricultural machinery, consumables, seals. Company name: EduardLTD Address: 30 Karbyshev st, Kostanay, Kazakhstan. Phone numbers: +7 701 896 8628, +7 701 475 2715, ‪+7 701 395 5427‬ and also add permanent WhatsApp button for chat with ‪+7 701 395 5427. Provide accessibility, SEO optimization, light/dark theme, Russian/English language accordingly user browser default. Add address google map. In Services section: Add 6 clicable sections with image placeholders for each and text. Click behavoir - WhatsApp chat with ‪+7 701 395 5427
+Classic Landingpage styled as Apple IOS application. Business type: retail. In hero section add image placeholder. Content: spare parts for cars, agricultural machinery, consumables, seals. Company name: EduardLTD Address: 30 Karbyshev st, Kostanay, Kazakhstan. Phone numbers: +7 701 896 8628, +7 701 475 2715, ‪+7 701 395 5427‬ and also add permanent WhatsApp button for chat with ‪+7 701 395 5427. Provide accessibility, SEO optimization, light/dark theme, Russian/English language accordingly user browser default. Add address map google . In Services section: Add 6 clicable sections with image placeholders for each and text:
 section1:	Запчасти ХТЗ, Т-150, ХТА, БТЗ
 section2:	Запчасти к опрыскивателю
 section3:	Уплотнители для ремонта гидроцилиндров
 section4:	Кольца резиновые
 section5:	Сальники
 section6:	Уплотнения
+Click behavior - WhatsApp chat with ‪+7 701 395 5427
