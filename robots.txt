@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://eduard-ltd.com/sitemap.xml
+Host: eduard-ltd.com
