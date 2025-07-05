@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --public-url ./ && cp robots.txt dist/ && cp sitemap.xml dist/ && cp edlogobluru.png dist/",
+    "build": "rm -rf dist && parcel build index.html --public-url ./ && cp robots.txt dist/ && cp sitemap.xml dist/ && cp edlogobluru.png dist/",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

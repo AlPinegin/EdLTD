@@ -1,0 +1,15 @@
+Make changes to your source files (.html, .css, .js, images, etc.) in your ~/eduard-ltd.com directory.
+Commit your source code to save your source code changes to the main branch of your GitHub repository.
+
+git add .
+git commit -m "Your descriptive message"
+git push origin main 
+
+
+Whenever you want to update the live site and deploy for production: 
+
+npm run build 
+(to generate the optimized dist folder)
+
+npm run deploy 
+(to push dist to the gh-pages branch and trigger GitHub Pages and trigger CloudFlare)
